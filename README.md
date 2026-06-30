@@ -23,6 +23,10 @@ This project replicates the core UI and layout of Blinkit’s homepage, featurin
    ```bash
     npm run dev
     ```
+5.Live Demo
+   ```bash
+https://6a43996664e6cc0e54a591ef--blinkitir.netlify.app/
+```
    
 ## 📄 License
 This project is part of the React Projects for Beginners repository for learning and open-source contribution.
